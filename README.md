@@ -1,2 +1,2 @@
-# api-generator
+# API Generator
 API generator from XML Schema.
